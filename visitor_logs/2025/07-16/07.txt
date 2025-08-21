@@ -1,0 +1,2 @@
+[2025-07-16 07:19:12] IP: ::1 | Page: /akshaynetra/hospitals.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/index.php
+[2025-07-16 07:38:01] IP: ::1 | Page: /akshaynetra/role-of-hospital.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/hospitals.php

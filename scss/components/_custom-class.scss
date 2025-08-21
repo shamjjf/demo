@@ -1,0 +1,65 @@
+@use "../utils" as *;
+
+/*----------------------------------------*/
+/*  2.1 custom color
+/*----------------------------------------*/
+.color-theme-primary {
+  color: rgb(132, 178, 148);
+}
+.color-theme-glow {
+  color: var(--rr-theme-glow);
+}
+.color-white {
+  color: var(--rr-common-white);
+}
+
+.rr-fw-medium {
+  font-weight: var(--rr-fw-medium);
+}
+.rr-fw-regular {
+  font-weight: var(--rr-fw-regular);
+}
+.rr-fw-sbold {
+  font-weight: var(--rr-fw-sbold);
+}
+.rr-fw-black {
+  font-weight: var(--rr-fw-black);
+}
+
+.rr-ff-heading {
+  font-family: var(--rr-ff-heading);
+}
+.rr-ff-body {
+  font-family: var(--rr-ff-body);
+}
+
+.body {
+  font-size: var(--rr-fs-body);
+  line-height: var(--rr-lh-body);
+}
+
+.footer-bg-black {
+  background-color: #303330;
+}
+.color-theme-green {
+  background-color: #e5f9ed;
+}
+.title-green {
+  color: #2d308d;
+}
+.color-theme-black {
+  color: #02110b;
+}
+.title-glow {
+  color: rgb(132, 178, 148);
+}
+.font-medium {
+  font-weight: var(--rr-fw-medium);
+}
+.font-sbold {
+  font-weight: var(--rr-fw-sbold);
+}
+
+.body-4 {
+  background: #f6f6f6;
+}

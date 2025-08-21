@@ -1,0 +1,6 @@
+[2025-07-03 16:00:27] IP: ::1 | Page: /akshaynetra/index.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/about-us.php
+[2025-07-03 16:00:35] IP: ::1 | Page: /akshaynetra/index.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Referer: Direct
+[2025-07-03 16:37:19] IP: ::1 | Page: /akshaynetra/volunteer.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/index.php
+[2025-07-03 16:40:54] IP: ::1 | Page: /akshaynetra/impact-stories.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-03 16:41:44] IP: ::1 | Page: /akshaynetra/influencer-faqs.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-03 16:51:08] IP: ::1 | Page: /akshaynetra/index.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/influencer-faqs.php

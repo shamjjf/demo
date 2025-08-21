@@ -1,0 +1,837 @@
+.pt-5 {
+  padding-top: 0rem !important;
+}
+
+.section-space__top {
+  padding-top: 0px;
+}
+
+/*hoME css*/
+.banner-5__media .image-1 {
+  right: 0;
+  top: 307px;
+  position: absolute;
+  overflow: hidden;
+}
+.latests {
+  background-color: #f2f7fd;
+  padding: 60px 0px;
+}
+.banner-2__space {
+  padding: 60px 0 60px;
+}
+.benefit-feature {
+  margin-top: -21px !important;
+  margin-bottom: 50px;
+}
+@media (max-width: 1075px) {
+  .benefit-feature {
+    margin-top: 25px !important;
+  }
+}
+@media (max-width: 575px) {
+  .about-us-5__media {
+    padding-bottom: 50px;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .section-space {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}
+.section-space__bottom {
+  padding-bottom: 8px;
+}
+.pb-4 {
+  padding-bottom: 6.5rem !important;
+}
+.mb-50 {
+  margin-bottom: 32px;
+}
+.pricing-2 {
+  padding-bottom: 60px;
+}
+.happy-customer {
+  padding-bottom: 34px;
+  padding-top: 34px;
+}
+
+.appointment-3__form {
+  padding-bottom: 50px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .appointment-3 {
+    margin: 0 20px;
+  }
+}
+.latest__item {
+  border-radius: 20px;
+  border: 1px solid #ffffff;
+  overflow: hidden;
+  border-top: none;
+  position: relative;
+  background-color: white;
+}
+.latest-services-2__wrapper {
+  margin-bottom: 11px;
+}
+/*home about css*/
+.wellness-expertise {
+  /* margin-top: 60px; */
+  /* margin-bottom: 40px; */
+}
+.para {
+  margin-bottom: 10px;
+}
+.service-4__item-text p {
+  margin-bottom: -25px;
+}
+/*home importance of eye donation css*/
+.treatment-process__item {
+  padding: 19px 26px 10px 26px;
+  background: var(--rr-common-white);
+  border: 1px solid #e4e5e5;
+  border-radius: 20px;
+}
+.footer__cta-bottom-ups {
+  margin-bottom: 24px;
+}
+@media (max-width: 575px) {
+  .mb-xs-50 {
+    margin-bottom: 8px;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .about-us-3 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .service-2 {
+    padding-top: 40px;
+    padding-bottom: 30px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .section-space {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .treatment-process {
+    padding-top: 0px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .about-us-3 {
+    padding-top: 16px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .pad {
+    padding-bottom: 33px;
+  }
+}
+
+/*home myts vs facts*/
+@media only screen and (min-width: 968px) and (max-width: 1280px) {
+  .latest-services-2__item {
+    padding: 22px;
+  }
+}
+.latest__scrollbar {
+  margin-bottom: 50px;
+}
+
+.swiper-wrapper {
+  display: flex;
+  align-items: stretch;
+}
+.latest__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%; /* Make all items have the same height */
+}
+.latest__item-media img {
+  width: 100%;
+  /* height: auto; */
+  max-height: 250px; /* Adjust this based on design */
+  object-fit: cover;
+}
+
+.latest__item-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.latest__item-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #f2f7fd;
+}
+
+.swiper-slide {
+  height: auto !important;
+  display: flex;
+  align-items: stretch;
+}
+
+.service-3 {
+  padding: 40px;
+}
+.latest {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #ffffff;
+}
+.service-3 {
+  background-color: #f2f7fd;
+}
+
+/*hospital css*/
+.section-space__top {
+  padding-top: 18px;
+}
+/*eye donation css*/
+.footer__cta-bottom-up {
+  margin-bottom: -37px;
+}
+/*how to help css*/
+.about-us-6 {
+  padding-bottom: 50px;
+}
+
+/*mythsvs facts css*/
+.treatment-process__item {
+  padding: 23px 45px;
+  background: var(--rr-common-white);
+  border: 1px solid #e4e5e5;
+  border-radius: 20px;
+}
+
+/*hospital css*/
+
+.banner-5__space {
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.about-us-5 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+@media only screen and (min-width: 968px) and (max-width: 1280px) {
+  .latest-services-2__items {
+    padding: 9px;
+  }
+}
+
+.latest-services-2__items:hover {
+  background-color: var(--rr-common-white);
+  border-color: transparent;
+  -webkit-box-shadow: 0px 5px 60px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 5px 60px rgba(0, 0, 0, 0.05);
+}
+.latest-services-2__media img {
+  overflow: hidden;
+  border-radius: 10px;
+}
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .latest-services-2__media img {
+    max-width: 100%;
+    height: 250px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+  }
+}
+
+.latest-services-2__items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 20px;
+  border: 2px solid #e4e5e5;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .latest-services-2__items {
+    display: block;
+  }
+}
+.latest-services-2__items:hover {
+  background-color: var(--rr-common-white);
+  border-color: transparent;
+  -webkit-box-shadow: 0px 5px 60px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 5px 60px rgba(0, 0, 0, 0.05);
+}
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .appointment-4-bottom__content {
+    margin-top: 13px;
+  }
+}
+.appointment-4__form {
+  padding: 40px 50px 60px;
+  margin-top: 52px;
+  background-color: #f2f7fd;
+  border-radius: 20px 20px 0px 0px;
+}
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .latest-services-2 {
+    padding-top: 16px;
+    padding-bottom: 10px;
+  }
+}
+.appointment-4 {
+  padding-bottom: 30px;
+}
+@media only screen and (min-width: 576px) and (max-width: 967px) {
+  .about-us-5__content {
+    padding-top: 226px;
+  }
+}
+/*hospital resources*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .section-space {
+    padding-top: 59px;
+    padding-bottom: 60px;
+  }
+}
+.about-us-7 {
+  padding-top: 60px;
+}
+/*volunteer csss*/
+.banner-4__media {
+  margin-left: 106px;
+  padding-right: 11px;
+  margin-top: 82px;
+  position: relative;
+}
+.banner-4__content {
+  max-width: 503px;
+  padding-top: 60px;
+}
+.latest-services-2 {
+  padding-bottom: 40px;
+  padding-top: 40px;
+  background-color: #f2f7fd;
+}
+.about-us-3__background {
+  background-color: #f2f7fd;
+}
+.about-us-5__content__list li i {
+  color: #2d308d;
+}
+.about-us-5 .section__title {
+  font-weight: var(--rr-fw-medium);
+}
+.latest-services-2 .section__title-wrapper {
+  max-width: 818px;
+}
+.benefit-feature__item-icon {
+  background-color: #2d308d;
+}
+.latest-services-2__wrapper img {
+  background-color: #2d308d;
+  border-radius: 32px;
+}
+.testimonial-3__space {
+  padding-top: 85px;
+  padding-bottom: 75px;
+}
+@media (max-width: 575px) {
+  .about-us-5__medias {
+    padding-bottom: 1px;
+  }
+}
+.testimonial-3__space_pad {
+  padding-top: 15px;
+  padding-bottom: 55px;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .section-space {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+.service__item {
+  padding: 21px;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .section-space {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+
+.about-us-3__background {
+  height: 1135px;
+}
+
+.service-2 {
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
+/*organisations css*/
+
+.banner-5__space {
+  padding-top: 60px;
+  padding-bottom: 93px;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .banner-5__space {
+    padding-bottom: 223px;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
+  .about-us-5__media {
+    padding-bottom: 30px;
+  }
+}
+
+.clients-testimonial-2 {
+  padding-top: 60px;
+}
+/*why ogr sholid get involvedorganisations css*/
+.about-us-2__main-content__list {
+  margin-bottom: 27px;
+}
+
+/*organisations sucess stories css*/
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .blog-3__item-content {
+    padding-right: 23px;
+  }
+}
+.ask-question {
+  padding-top: 60px;
+  padding-bottom: 7px;
+}
+
+.blog-3 {
+  padding-bottom: 30px;
+}
+/*influncer*/
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
+  .banner-5__space {
+    padding-bottom: 321px;
+  }
+}
+/*campaign guidlines*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .section-space {
+    padding-top: 60px;
+    padding-bottom: 70px;
+  }
+}
+/*campaign guidlines*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .section-space {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+
+/*color css*/
+.pricing-appointment__contact-item-icon i {
+  font-size: 24px;
+  color: rgb(45 48 141);
+}
+.about-us-6__item-icon i {
+  color: rgb(45 48 141);
+  font-size: 16px;
+}
+.about-us-3__content__list li i {
+  font-weight: 900;
+  font-size: 15px;
+  color: #2d308d;
+}
+.about-us-3__content-btn__icon i {
+  font-size: 16px;
+  color: #2d308d;
+}
+.title-green {
+  color: #000000;
+}
+.about-us-3__content-btn__icon {
+  border: 1px solid #2d308d;
+}
+.happy-customer {
+  background-color: #2d308d;
+  padding: 50px 0;
+}
+.latest__scrollbar .swiper-scrollbar-drag {
+  height: 100%;
+  background: #2d308d;
+}
+.latest__scrollbar {
+  background: #ffffff;
+}
+.pricing-2__item.active {
+  background-color: var(--rr-theme-green);
+}
+.rr-btn.rr-btn__primary-color {
+  background-color: #2d308d;
+}
+
+.pricing-2__item .rr-btn {
+  border: 1px solid var(--rr-theme-black);
+  background-color: #2d308d;
+}
+.banner-5__btn-box-wrapper i {
+  background-color: #2d308d;
+}
+
+.rr-btn {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  border-radius: 500px;
+  color: var(--rr-common-white);
+  font-family: var(--rr-ff-heading);
+
+  background-color: #2d308d;
+}
+.service-3__item-header-icon {
+  background: #2d308d;
+  border-radius: 41px;
+}
+.service-2__item-content h4 img {
+  max-width: 40px;
+  background-color: #2d308d;
+  border-radius: 20px;
+}
+/* .treatment-process__item-icon{
+    width: 80px;
+    height: 80px;
+    min-width: 80px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex
+;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #E5F9ED;
+    border-radius: 500px;
+} */
+
+.about-us-2__main-content__list-item-icon {
+  width: 64px;
+  height: 64px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  border-radius: 500px;
+  border: 1px solid #2d308d;
+  background-color: #2d308d;
+}
+
+.wellness-expertise__content__list li i {
+  color: #2d308d;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
+  .about-us-5__media .image-2 {
+    left: 120px;
+    top: 280px;
+  }
+}
+
+.banner-2__shape {
+  position: absolute;
+  content: "";
+  width: 1522.97px;
+  height: 1356.07px;
+  background: #091d3f;
+  bottom: -1047px;
+  left: -99px;
+  z-index: -1;
+  -webkit-transform: rotate(-20deg);
+  transform: rotate(-20deg);
+  border-radius: 500px;
+  -webkit-filter: blur(217px);
+  filter: blur(217px);
+}
+
+.about-us-5__content .rr-btn {
+  padding: 20px 25px;
+  /* border: 2px solid var(--rr-theme-black); */
+}
+.about-us-5__content .rr-btn {
+  padding: 20px 25px;
+  /* border: 2px solid var(--rr-theme-black); */
+}
+.about-us-5__content .rr-btn {
+  padding: 20px 25px;
+  /* border: 2px solid var(--rr-theme-black); */
+}
+
+.clients-testimonial-2__slider__arrow-prev,
+.clients-testimonial-2__slider__arrow-next {
+  width: 60px;
+  height: 60px;
+  background-color: #171a8f;
+  border-radius: 500px;
+  color: #f4f5fb;
+}
+.breadcrumb__area.overly:after {
+  z-index: 0;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: #0f1152;
+  color: black;
+  opacity: 0.9;
+}
+.breadcrumb__menu ul li.active {
+  color: #ffffff;
+}
+
+.top-headerrr {
+  background-color: #081c3e;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+.rr-btn {
+  background-color: #2d308d;
+}
+.header-4-top {
+  margin-bottom: -39px;
+  background: #182560;
+  padding-bottom: 60px;
+  padding-top: 23px;
+}
+
+.slider-text {
+  background-color: rgb(45 48 141);
+}
+.header-4__background {
+  background-color: #182560;
+}
+/* @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+    .banner-2__content {
+        flex-direction: column;
+    }
+} */
+
+.img-fluids {
+  /* max-width: 100%; */
+  height: auto;
+}
+#scroll-percentage-value {
+  height: calc(100% - 6px);
+  width: calc(100% - 6px);
+  color: var(--rr-common-white);
+  border-radius: 50%;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  font-size: 16px;
+  font-weight: 600;
+  background: #2d308d;
+}
+
+/* new */
+/* .banner-2__media img {
+    width: 100%;
+    max-width: 469px; 
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    object-fit: cover; 
+}
+
+.banner-2__media {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    width: 100%;
+}
+
+.row.align-items-center {
+    display: flex;
+    flex-wrap: wrap;
+}
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+       only screen and (min-width: 992px) and (max-width: 1199px),
+       only screen and (min-width: 768px) and (max-width: 991px),
+       only screen and (min-width: 576px) and (max-width: 767px),
+       (max-width: 575px) {
+    .banner-2__media img {
+        width: 100%;
+        height: auto;
+        margin-left: inherit;
+    }
+}
+@media only screen and (max-width: 1399px) {
+    .banner-2__media img {
+        width: 100%;
+        height: auto;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+@media only screen and (max-width: 1399px) {
+    .col-lg-5 {
+        text-align: center;
+    }
+    .banner-2__media img {
+        width: 90%;
+        max-width: 469px;
+        height: auto;
+    }
+} */
+
+/* new */
+
+.theme-bg-glow {
+  background-color: #2d308d;
+}
+
+.client-testimonial__slider-wrapper {
+  border-radius: 20px;
+  overflow: hidden;
+  background: #f2f7fd;
+}
+.wellness-expertise__media__box-icon {
+  background-color: #2d308d;
+}
+.offcanvas__social ul li a {
+  color: #0e0f10;
+}
+
+.theme-bg-primary {
+  background-color: #182560;
+}
+.footer__cta-item {
+  background-color: #182560;
+}
+.appointment-3 {
+  background-color: #f2f7fd;
+}
+
+.footer-3__area-common {
+  padding-top: 60px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+
+.footer-4__widget ul li a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: var(--rr-common-white);
+}
+
+.footer-4__widget-title {
+  color: var(--rr-common-white);
+}
+
+.footer-3__link ul li span {
+  gap: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 18px;
+
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-weight: var(--rr-fw-bold);
+  margin-bottom: 11px;
+}
+.service-details__content ul li span {
+  background: #2d308d;
+}
+
+.treatment-process__item-icon img {
+  background-color: #2d308d;
+  border-radius: 36px;
+}
+
+.service-4__item-icon {
+  background: #2d308d;
+}
+.panel {
+  color: white;
+  background: #2d308d;
+}
+
+.footer-4__cta-wrapper {
+  gap: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 30px;
+  margin-right: 30px;
+  /* padding: 65px 60px; */
+  margin-top: 46px;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 30px;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  background-color: #2d308d;
+}
+
+.footer-3__bottom {
+  margin-top: 40px;
+  padding: 28px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.footer-4__copyright p {
+  color: #ffffff;
+}

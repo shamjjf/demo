@@ -1,0 +1,44 @@
+$colors: (
+  common: (
+    "white": #ffffff,
+    "black": #000000,
+    "placeholder": #4a5764,
+    "selection": #3c66fa,
+  ),
+  color: (
+    "white": #000,
+    "900": #071c3c,
+    "800": #646464,
+    "700": #2a2a2a,
+    "200": #e4e5e5,
+    "100": #f2f7fd,
+  ),
+  body: (
+    "primary": #ffffff,
+  ),
+  theme: (
+    "primary": #185ec8,
+    "secondary": #c9f3ff,
+    "glow": #169091,
+    "green": #2d308d,
+    "black": #02110b,
+  ),
+  heading: (
+    "primary": #071c3c,
+  ),
+  text: (
+    "body": #646464,
+  ),
+  shadow: (
+    "primary": 0px 5px 60px rgba(0, 0, 0, 0.05),
+  ),
+  border: (
+    "primary": 1px solid #185ec8,
+  ),
+  section: (
+    "1": #185ec8,
+  ),
+  menu: (
+    "primary": #071c3c,
+  ),
+);

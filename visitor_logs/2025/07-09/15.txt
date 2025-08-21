@@ -1,0 +1,4 @@
+[2025-07-09 15:13:13] IP: ::1 | Page: /akshaynetra/role-of-hospital.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-09 15:14:04] IP: ::1 | Page: /akshaynetra/hospital-resources.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-09 15:14:31] IP: ::1 | Page: /akshaynetra/hospitals-faqs.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-09 15:16:43] IP: ::1 | Page: /akshaynetra/why-become-volunteer.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct

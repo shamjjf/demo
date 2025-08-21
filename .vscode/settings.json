@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "vscode.php-language-features",
+    "notebook.defaultFormatter": "vscode.php-language-features",
+    "[php]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    }
+}

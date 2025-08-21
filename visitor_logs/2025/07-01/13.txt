@@ -1,0 +1,6 @@
+[2025-07-01 13:05:24] IP: ::1 | Page: /akshaynetra/why-organisations-should-get-involved.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-01 13:06:33] IP: ::1 | Page: /akshaynetra/why-organisations-should-get-involved.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-01 13:14:06] IP: ::1 | Page: /akshaynetra/csr-opportunities.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-01 13:19:29] IP: ::1 | Page: /akshaynetra/organisations-success-stories.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-01 13:20:40] IP: ::1 | Page: /akshaynetra/organisations-success-stories.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct
+[2025-07-01 13:25:25] IP: ::1 | Page: /akshaynetra/organisations-faqs.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: Direct

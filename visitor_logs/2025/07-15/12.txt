@@ -1,0 +1,2 @@
+[2025-07-15 12:51:58] IP: ::1 | Page: /akshaynetra/index.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/index.php
+[2025-07-15 12:52:08] IP: ::1 | Page: /akshaynetra/about-us.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/index.php

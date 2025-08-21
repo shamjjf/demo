@@ -1,0 +1,4 @@
+[2025-07-07 15:24:59] IP: ::1 | Page: /akshaynetra/how-to-help.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/how-to-help.php
+[2025-07-07 15:28:06] IP: ::1 | Page: /akshaynetra/about-us.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/how-to-help.php
+[2025-07-07 15:28:10] IP: ::1 | Page: /akshaynetra/how-to-help.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/about-us.php
+[2025-07-07 15:37:59] IP: ::1 | Page: /akshaynetra/how-to-help.php | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 | Referer: http://localhost/akshaynetra/about-us.php
